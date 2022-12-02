@@ -9,7 +9,7 @@
 #ifndef LED_H_
 #define LED_H_
 
-#include "../../MCAL/DIO Driver/dio.h"
+#include "../../MCAL/DIO/dio.h"
 
 void LED_init(uint8_t ledPort, uint8_t ledPin);
 void LED_on(uint8_t ledPort, uint8_t ledPin);

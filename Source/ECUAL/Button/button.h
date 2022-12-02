@@ -9,7 +9,7 @@
 #ifndef BUTTON_H_
 #define BUTTON_H_
 
-#include "../../MCAL/DIO Driver/dio.h"
+#include "../../MCAL/DIO/dio.h"
 
 #define LOW 0
 #define HIGH 1
